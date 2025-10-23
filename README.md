@@ -55,7 +55,7 @@ You should see the following JSON response displayed neatly:
 
 ---
 
-##Project Structure
+## Project Structure
 The project follows a clean and organized structure for scalability and readability.
 
 my-first-nodejs-project/
@@ -72,7 +72,7 @@ my-first-nodejs-project/
 
 ---
 
-##Interactions
+## Interactions
 
 | Method | Endpoint | Description                          | Example Output                                                                                                             |
 | ------ | -------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ my-first-nodejs-project/
 
 ---
 
-##Technologies Used
+## Technologies Used
 - Node.js — JavaScript runtime for backend development
 - Express.js — Minimal and flexible web framework for building APIs
 - Nodemon — Utility for auto-restarting the server during development
@@ -88,7 +88,7 @@ my-first-nodejs-project/
 
 ---
 
-##Responsive Notes
+## Responsive Notes
 This is a backend API, not a front-end project.
 You can test it using:
 
@@ -98,7 +98,7 @@ The server listens on port 3000 by default and can be customized in the server.j
 
  ---
 
- ##Common Commands
+ ## Common Commands
 
  | Command                   | Description                                      |
 | ------------------------- | ------------------------------------------------ |
@@ -111,7 +111,7 @@ The server listens on port 3000 by default and can be customized in the server.j
 
 ---
 
-##Troubleshooting
+## Troubleshooting
 
 If the server fails to start, make sure port 3000 is not in use.
 - You can change the port number in server.js.
@@ -123,7 +123,7 @@ If node_modules is too large, confirm it’s ignored in your .gitignore file.
 
 ---
 
-##Dependencies
+## Dependencies
 The following dependencies are used in this project:
 
 | Package | Purpose                                             |
@@ -137,7 +137,7 @@ npm install --save-dev nodemon
 
 ---
 
-##Commit Summary Table
+## Commit Summary Table
 | Version | Commit Message                           | Description                                      |
 | ------- | ---------------------------------------- | ------------------------------------------------ |
 | v1.0.0  | initial commit - my first nodejs project | Set up base server and express route             |
@@ -148,7 +148,7 @@ npm install --save-dev nodemon
 
 ---
 
-##Future Improvements
+## Future Improvements
 - Add multiple routes for different types of introductions.
 - Integrate a database (MongoDB or PostgreSQL).
 - Implement environment variables with .env files.
@@ -157,19 +157,18 @@ npm install --save-dev nodemon
 
 ---
 
-##Author
+## Author
 Chioma Princess Ohwo
 Backend Developer in Training | Full Stack Web Developer | Cloud Architect
 Passionate about building scalable digital solutions and simplifying technology for users
 
 ---
 
-##License
+## License
 This project is open-source and free to use for learning and practice purposes.
 
 ---
 
 ## Made by thevirtualtechmaven — Full Stack Web Developer
 
-   ```bash
-   git clone https://github.com/<your-username>/my-first-nodejs-project.git
+ 

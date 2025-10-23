@@ -1,0 +1,23 @@
+{
+  "name": "my-first-nodejs-project",
+  "version": "1.0.0",
+  "description": "my first Node.js project under engineers network ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-first-Node.js-project"
+  },
+  "author": "Chioma Princess Ohwo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
